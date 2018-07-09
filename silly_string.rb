@@ -21,8 +21,8 @@ puts lowercased_phrase
 
 big_word = "supercalifragilisticexpialidocious"
 
-letter_count = big_word # Put a . after big_word and use a String method.
-"supercalifragilisticexpialidocious".length
+letter_count = big_word # Put a .length
+
 puts "There are #{letter_count} in #{big_word}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
