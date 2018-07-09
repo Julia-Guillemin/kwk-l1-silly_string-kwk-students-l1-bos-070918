@@ -21,7 +21,7 @@ puts lowercased_phrase
 
 big_word = "supercalifragilisticexpialidocious"
 
-letter_count = big_word # Put a .length
+letter_count = big_word.length
 
 puts "There are #{letter_count} in #{big_word}"
 
