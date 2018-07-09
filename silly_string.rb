@@ -14,7 +14,7 @@ puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 phrase = "IM NOT SHOUTING"
 
 lowercased_phrase = phrase.downcase # Put a . after phrase and use a String method.
-imnot_shouting = IM NOT SHOUTING.lowercased_phrase
+
 puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
